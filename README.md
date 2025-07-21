@@ -2,9 +2,9 @@
 
 COMPANY:CODTECH IT SOLUTIONS
 
-NAME:Mehek Fatima Shaik
+NAME:Gunupuram Navdeep
 
-INTERN ID:CT04DF1005
+INTERN ID:CT04DF1012
 
 DOMAIN:DATA SCIENCE
 
@@ -55,3 +55,4 @@ The project is clean, repeatable, and can be shared on platforms like GitHub for
 OUTPUT :-
 
 
+![Image](https://github.com/user-attachments/assets/1dff95cc-e24a-4afd-816f-7df30a4360b9)
